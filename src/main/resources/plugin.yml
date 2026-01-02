@@ -6,3 +6,12 @@ prefix: InvisFrames
 authors: [ Cinnaminin ]
 description: Allows players to take normal item frames and turn them invisible!
 website: https://cinnaminin.dev/
+commands:
+  invisframe:
+    description: Toggle invisible item frames
+    usage: /invisframe
+    aliases: [isfe, isf, invisf, isframe]
+permissions:
+  invisframes.use:
+    description: Change item frames in mainhand to be invisible when placed!
+    default: false

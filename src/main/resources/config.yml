@@ -1,0 +1,11 @@
+# InvisFrames by Cinnaminin :3
+# Plugin Config
+# Plugin Version 1.1
+
+# toggle the commands for invisible item frames
+commands:
+  enabled: true
+
+# toggle whether or not invisable item frams can be crafted
+crafting:
+  enabled: true
